@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "demoapp"
+name = "langchain_demos"
 version = "0.1.0"
 description = ""
 authors = ["Percy Tejada Donayre <percytejada.code@gmail.com>"]
@@ -16,6 +16,8 @@ pypdf = "^5.0.1"
 langchain-chroma = "^0.1.4"
 faiss-cpu = "^1.9.0"
 ipykernel = "^6.29.5"
+langchainhub = "^0.1.21"
+beautifulsoup4 = "^4.12.3"
 
 
 [build-system]
