@@ -1,0 +1,83 @@
+[
+  {
+    "type": "human",
+    "data": {
+      "content": "Hola!!",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "\u00a1Hola! \u00bfC\u00f3mo puedo ayudarte hoy?",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "Mi nombre es Percy Tejada",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "\u00a1Encantado de conocerte, Percy! \u00bfEn qu\u00e9 puedo ayudarte hoy?",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  },
+  {
+    "type": "human",
+    "data": {
+      "content": "\u00bfCual es mi nombre?",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "human",
+      "name": null,
+      "id": null,
+      "example": false
+    }
+  },
+  {
+    "type": "ai",
+    "data": {
+      "content": "Tu nombre es Percy Tejada. \u00bfHay algo m\u00e1s con lo que te pueda ayudar?",
+      "additional_kwargs": {},
+      "response_metadata": {},
+      "type": "ai",
+      "name": null,
+      "id": null,
+      "example": false,
+      "tool_calls": [],
+      "invalid_tool_calls": [],
+      "usage_metadata": null
+    }
+  }
+]
